@@ -43,7 +43,7 @@
 
 <div align="center">
 
-[![Pinned](https://github-readme-stats.vercel.app/api/pin/?username=Vokiry&repo=bledctl&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=C9D1D9&icon_color=00CED1)](https://github.com/Vokiry/bledctl)
+[![Pinned](https://github-readme-stats.hackclub.dev/api/pin/?username=Vokiry&repo=bledctl&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=C9D1D9&icon_color=00CED1)](https://github.com/Vokiry/bledctl)
 
 </div>
 
@@ -55,7 +55,7 @@
 
 | | |
 |:---:|:---:|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Vokiry&theme=dracula&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=C9D1D9&icon_color=00CED1) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vokiry&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=C9D1D9) |
+| ![Stats](https://github-readme-stats.hackclub.dev/api?username=Vokiry&theme=dracula&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=C9D1D9&icon_color=00CED1&count_private=true) | ![Languages](https://github-readme-stats.hackclub.dev/api/top-langs/?username=Vokiry&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=C9D1D9&langs_count=8) |
 
 </div>
 
