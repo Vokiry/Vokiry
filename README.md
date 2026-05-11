@@ -43,7 +43,7 @@
 
 <div align="center">
 
-[![Pinned](https://gitmystat.vercel.app/api/pin?username=Vokiry&repo=bledctl&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=C9D1D9&icon_color=00CED1&description=Blursed+LED+controller)](https://github.com/Vokiry/bledctl)
+[![Pinned](https://github-readme-stats.vercel.app/api/pin/?username=Vokiry&repo=bledctl&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=C9D1D9&icon_color=00CED1)](https://github.com/Vokiry/bledctl)
 
 </div>
 
@@ -55,13 +55,13 @@
 
 | | |
 |:---:|:---:|
-| ![Stats](https://gitmystat.vercel.app/api?username=Vokiry&theme=dracula&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=C9D1D9&icon_color=00CED1) | ![Languages](https://gitmystat.vercel.app/api/top-langs?username=Vokiry&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=C9D1D9) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=Vokiry&theme=dracula&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=C9D1D9&icon_color=00CED1) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vokiry&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=C9D1D9) |
 
 </div>
 
 <div align="center">
 
-![Streak](https://gitmystat.vercel.app/api/streak?username=Vokiry&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=C9D1D9&stroke=00CED1)
+![Streak](https://streak-stats.demolab.com/?user=Vokiry&theme=dracula&hide_border=true&background=0D1117&stroke=00CED1&ring=00CED1&fire=00CED1&currStreakLabel=00CED1)
 
 </div>
 
@@ -77,7 +77,7 @@
 
 <div align="center">
 
-[![Trophy](https://github-trophies.vercel.app/?username=Vokiry&theme=dracula&column=8&size=small)](https://github.com/Vokiry)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Vokiry&theme=dracula&column=8&no-frame=true&no-bg=true&margin-w=4)](https://github.com/Vokiry)
 
 </div>
 
