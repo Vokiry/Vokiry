@@ -39,6 +39,16 @@
 
 ---
 
+## 📌 Pinned
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vokiry&repo=bledctl&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=C9D1D9&description=Blursed LED controller)](https://github.com/Vokiry/bledctl)
+
+</div>
+
+---
+
 ## 📊 Stats
 
 <div align="center">
@@ -51,7 +61,9 @@
 
 <div align="center">
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vokiry&layout=compact)
+| Bash | Lua | Python | C |
+|:---:|:---:|:---:|:---:|
+| ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) | ![Lua](https://img.shields.io/badge/Lua-000080?logo=lua&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) |
 
 </div>
 
