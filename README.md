@@ -51,7 +51,7 @@
 
 <div align="center">
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vokiry&layout=compact&theme=onedark&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=C9D1D9)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vokiry&layout=compact)
 
 </div>
 
