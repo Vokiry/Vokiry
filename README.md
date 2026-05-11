@@ -5,31 +5,31 @@
 
 <br>
 
-<!-- PASTE YOUR ASCII ART HERE IN A CODE BLOCK -->
-
 ```
- __                                    __      __    __ __        __              __       __    
-|  |_.-----.--.--.-----.---.-.--------|__|    |  |--|__|  |_.----|  |--.    .----|  .--.--|  |--.
-|   _|__ --|  |  |     |  _  |        |  |    |  _  |  |   _|  __|     |    |  __|  |  |  |  _  |
-|____|_____|_____|__|__|___._|__|__|__|__|    |_____|__|____|____|__|__|    |____|__|_____|_____|
+ █████╗  █████╗ ██████╗  █████╗ ██████╗ ██████╗ ███████╗██████╗ 
+██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔══██╗
+██║  ██║███████║██████╔╝███████║██████╔╝██████╔╝█████╗  ██████╔╝
+██║  ██║██╔══██║██╔══██╗██╔══██║██╔══██╗██╔══██╗██╔══╝  ██╔══██╗
+╚█████╔╝██║  ██║██║  ██║██║  ██║██║  ██║██║  ██║███████╗██║  ██║
+ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 ```
 
 <br>
 
-**Linux Enthusiast | CLI Lover | Minimalist**
+**Student | Linux Enthusiast | CLI Lover**
 
 <br>
 
 ```
 +---------------------------------------------------------------+
-|  $ whoami                                                     |
-|  > Vokiry - exploring the Linux ecosystem                     |
+|  $ whoami                                                    |
+|  > Vokiry - Somewhere on Earth                               |
 |                                                               |
-|  $ echo $MOTIVATION                                           |
-|  > "Simplicity is the ultimate sophistication."               |
+|  $ echo $MOTIVATION                                          |
+|  > "Simplicity is the ultimate sophistication."              |
 |                                                               |
-|  $ uname -srm                                                 |
-|  > Linux x86_64 GNU/Linux                                     |
+|  $ uname -srm                                                |
+|  > Linux x86_64 GNU/Linux | Arch BTW                        |
 +---------------------------------------------------------------+
 ```
 
@@ -45,8 +45,7 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vokiry&repo=dotfiles&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=C9D1D9)](https://github.com/Vokiry/dotfiles)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vokiry&repo=linux-scripts&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=C9D1D9)](https://github.com/Vokiry/linux-scripts)
+[![Bledctl](https://github-readme-stats.vercel.app/api/pin/?username=Vokiry&repo=bledctl&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=C9D1D9&description=Blursed LED controller?)](https://github.com/Vokiry/bledctl)
 
 </div>
 
@@ -76,21 +75,21 @@
 
 ---
 
-## 🏆 Trophies
+## 🐍 Snake
 
 <div align="center">
 
-[![Trophy](https://github-trophies.vercel.app/?username=Vokiry&theme=dark&column=6&title_color=00CED1&text_color=C9D1D9&bg_color=0D1117&no_frame=true&size=small)](https://github.com/Vokiry)
+![Snake](https://raw.githubusercontent.com/Vokiry/Vokiry/output/snake.svg)
 
 </div>
 
 ---
 
-## 🎮 Activity (Snake Game)
+## 🏆 Trophies
 
 <div align="center">
 
-![Snake](https://raw.githubusercontent.com/Vokiry/Vokiry/output/snake.svg)
+[![Trophy](https://github-trophies.vercel.app/?username=Vokiry&theme=dark&column=6&title_color=00CED1&text_color=C9D1D9&bg_color=0D1117&no_frame=true&size=small)](https://github.com/Vokiry)
 
 </div>
 
@@ -108,37 +107,43 @@
 
 ## 👤 About Me
 
+| | |
 |:---|:---|
 | **Name** | Vokiry |
-| **Location** | [Somewhere on Earth] |
-| **Pronouns** | he/him |
+| **Location** | Somewhere on Earth |
+| **Role** | Student |
+| **Shell** | zsh (customized) |
+| **WM** | Hyprland / niri |
 
 ### What I Do
 
-- 🔧 System administration & Linux server management
-- 🖥️ Building dotfiles and rice configs
-- 📜 Writing shell scripts and CLI tools
-- 🎯 Contributing to open source when I can
-- 📚 Always learning something new
+- 🎓 Studying computer science
+- 🐧 Running Arch BTW and CachyOS daily
+- 🎨 Ricing Hyprland and niri
+- 📜 Writing shell scripts and automation
+- 🔧 Tinkering with Linux daily
 
-### Currently Working On
+### Currently Learning
 
-- [ ] Learning [specific skill]
-- [ ] Building [specific project]
-- [ ] Reading [book/course]
-- [ ] Exploring [topic]
+- Hyprland configuration and Lua
+- Rust (for CLI tools)
+- Wayland protocols
+- Systemd deep dive
 
 ### Interests
 
-- 📖 Open source philosophy
+- ⌨️ Customizing dotfiles
+- 🎮 Retro gaming on Linux
+- 📖 Learning how things work under the hood
 - 🐧 Tux the penguin
-- 🌌 CLI aesthetics
+- 🌌 Minimalist CLI aesthetics
 
-### Tools I Use Daily
+### Daily Tools
 
 | Terminal | Editor | Browser | OS |
 |:---|:---|:---|:---|
-| Kitty | Neovim | Firefox | Arch |
+| Alacritty | Neovim | Firefox | Arch / CachyOS |
+| zsh + zellij | Vim | Librewolf | niri |
 
 ---
 
@@ -146,43 +151,37 @@
 
 ### Operating Systems
 
-| Arch | Debian | Fedora | Void | Ubuntu | Gentoo |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| ![Arch](https://img.shields.io/badge/Arch-1793D1?logo=archlinux&logoColor=white) | ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white) | ![Fedora](https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white) | ![Void](https://img.shields.io/badge/Void-478061?logo=void&logoColor=white) | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white) | ![Gentoo](https://img.shields.io/badge/Gentoo-54487A?logo=gentoo&logoColor=white) |
+| Arch | CachyOS | Debian | Fedora | Void |
+|:---:|:---:|:---:|:---:|:---:|
+| ![Arch](https://img.shields.io/badge/Arch-1793D1?logo=archlinux&logoColor=white) | ![CachyOS](https://img.shields.io/badge/CachyOS-35495E?logo=archlinux&logoColor=white) | ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white) | ![Fedora](https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white) | ![Void](https://img.shields.io/badge/Void-478061?logo=void&logoColor=white) |
 
 ### Tools
 
-| Bash | Vim | Neovim | Git | Tmux | Docker |
+| zsh | Bash | Vim | Neovim | Git | Tmux |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) | ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white) | ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) | ![Tmux](https://img.shields.io/badge/Tmux-1BB91F?logo=tmux&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
+| ![zsh](https://img.shields.io/badge/zsh-4EAA25?logo=gnubash&logoColor=white) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) | ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white) | ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) | ![Tmux](https://img.shields.io/badge/Tmux-1BB91F?logo=tmux&logoColor=white) |
+
+### Window Managers
+
+| Hyprland | niri | i3 | Sway |
+|:---:|:---:|:---:|:---:|
+| ![Hyprland](https://img.shields.io/badge/Hyprland-00CED1?logo=wayland&logoColor=white) | ![niri](https://img.shields.io/badge/niri-00CED1?logo=wayland&logoColor=white) | ![i3](https://img.shields.io/badge/i3-00CED1?logo=i3&logoColor=white) | ![Sway](https://img.shields.io/badge/Sway-00CED1?logo=sway&logoColor=white) |
 
 ### Languages
 
-| Python | Go | Rust | C | C++ | JavaScript |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) | ![Rust](https://img.shields.io/badge/Rust-DEA584?logo=rust&logoColor=white) | ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-
----
-
-## 📈 Activity Heatmap
-
-```
-Loading...
-```
-
-<!-- Replace with your WakaTime stats if you have an account
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=C9D1D9)]
--->
+| Bash | Python | C | Lua | Rust |
+|:---:|:---:|:---:|:---:|:---:|
+| ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) | ![Lua](https://img.shields.io/badge/Lua-000080?logo=lua&logoColor=white) | ![Rust](https://img.shields.io/badge/Rust-DEA584?logo=rust&logoColor=white) |
 
 ---
 
 ## 📂 Projects
 
-| Project | Description | Stars |
+| Project | Description | Status |
 |:---|:---|:---|
-| **dotfiles** | My Linux rice and configurations | ⭐ |
-| **linux-scripts** | Useful automation scripts | ⭐ |
-| **rice-configs** | Window manager configurations | ⭐ |
+| **bledctl** | CLI tool for controlling Blursed LEDs | Coming Soon |
+| **dotfiles** | Hyprland + niri rice configurations | In Progress |
+| **linux-scripts** | Useful automation scripts | Maintaining |
 
 ---
 
@@ -190,11 +189,11 @@ Loading...
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-00CED1?logo=gmail&style=for-the-badge)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-00CED1?logo=gmail&style=for-the-badge)](mailto:vokiiry@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-00CED1?logo=github&style=for-the-badge)](https://github.com/Vokiry)
-[![Twitter](https://img.shields.io/badge/Twitter-00CED1?logo=x&style=for-the-badge)](https://twitter.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00CED1?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/)
-[![Website](https://img.shields.io/badge/Website-00CED1?logo=firefox&style=for-the-badge)](https://yourwebsite.com)
+[![Twitter](https://img.shields.io/badge/Twitter-00CED1?logo=x&style=for-the-badge)](https://twitter.com/Vokkiry)
+[![Telegram](https://img.shields.io/badge/Telegram-00CED1?logo=telegram&style=for-the-badge)](https://t.me/Vokiry)
+[![Website](https://img.shields.io/badge/Website-00CED1?logo=firefox&style=for-the-badge)](https://vokiry.tech)
 
 </div>
 
@@ -215,12 +214,12 @@ Loading...
 
 ```
 +-----------------------------------------------------------------+
-|  > gcc life.c -o happiness                                      |
+|  > gcc life.c -o happiness                                     |
 |  > ./happiness                                                  |
-|                                                                 |
-|     "The terminal is not just a tool -- it's a lifestyle."      |
-|                                                                 |
-|     Thanks for visiting! Stay curious, stay free!               |
+|                                                                  |
+|     "The terminal is not just a tool -- it's a lifestyle."     |
+|                                                                  |
+|     Thanks for visiting! Stay curious, stay free!              |
 +-----------------------------------------------------------------+
 ```
 
