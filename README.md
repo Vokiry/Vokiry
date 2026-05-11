@@ -75,15 +75,11 @@
 
 ---
 
-## 🐍 Snake
+## 📈 Contributions
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vokiry/Vokiry/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vokiry/Vokiry/output/github-snake.svg" />
-  <img alt="Snake" src="https://raw.githubusercontent.com/Vokiry/Vokiry/output/github-snake-dark.svg" />
-</picture>
+![Contributions](https://github-contributions.vercel.app/api/vokiry?theme=dark&width=100%&hideTitle=true&hideBorder=true&color=00CED1&bg_color=0D1117)
 
 </div>
 
