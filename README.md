@@ -6,12 +6,10 @@
 <br>
 
 ```
- █████╗  █████╗ ██████╗  █████╗ ██████╗ ██████╗ ███████╗██████╗ 
-██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔══██╗
-██║  ██║███████║██████╔╝███████║██████╔╝██████╔╝█████╗  ██████╔╝
-██║  ██║██╔══██║██╔══██╗██╔══██║██╔══██╗██╔══██╗██╔══╝  ██╔══██╗
-╚█████╔╝██║  ██║██║  ██║██║  ██║██║  ██║██║  ██║███████╗██║  ██║
- ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+ __                                    __      __    __ __        __              __       __    
+|  |_.-----.--.--.-----.---.-.--------|__|    |  |--|__|  |_.----|  |--.    .----|  .--.--|  |--.
+|   _|__ --|  |  |     |  _  |        |  |    |  _  |  |   _|  __|     |    |  __|  |  |  |  _  |
+|____|_____|_____|__|__|___._|__|__|__|__|    |_____|__|____|____|__|__|    |____|__|_____|_____|
 ```
 
 <br>
@@ -22,14 +20,14 @@
 
 ```
 +---------------------------------------------------------------+
-|  $ whoami                                                    |
-|  > Vokiry - Somewhere on Earth                               |
+|  $ whoami                                                     |
+|  > Vokiry - Somewhere on Earth                                |
 |                                                               |
-|  $ echo $MOTIVATION                                          |
-|  > "Simplicity is the ultimate sophistication."              |
+|  $ echo $MOTIVATION                                           |
+|  > "Simplicity is the ultimate sophistication."               |
 |                                                               |
-|  $ uname -srm                                                |
-|  > Linux x86_64 GNU/Linux | Arch BTW                        |
+|  $ uname -srm                                                 |
+|  > Linux x86_64 GNU/Linux | Arch BTW                          |
 +---------------------------------------------------------------+
 ```
 
@@ -55,7 +53,6 @@
 
 <div align="center">
 
-| | |
 |:---:|:---:|
 | ![Contributions](https://github-readme-stats.vercel.app/api?username=Vokiry&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=C9D1D9&icon_color=00CED1&count_private=true&include_all_commits=true) | ![Streak](https://streak-stats.demolab.com/?user=Vokiry&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=C9D1D9&icon_color=00CED1&stroke=00CED1) |
 
@@ -97,7 +94,6 @@
 
 ## 👤 About Me
 
-| | |
 |:---|:---|
 | **Name** | Vokiry |
 | **Location** | Somewhere on Earth |
