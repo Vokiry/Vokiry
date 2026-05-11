@@ -80,8 +80,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vokiry/Vokiry/output/github-snake-dark.svg" />
-  <img alt="Snake" src="https://raw.githubusercontent.com/Vokiry/Vokiry/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vokiry/Vokiry/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vokiry/Vokiry/output/snake.svg" />
+  <img alt="Snake" src="https://raw.githubusercontent.com/Vokiry/Vokiry/output/snake-dark.svg" />
 </picture>
 
 </div>
