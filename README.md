@@ -8,11 +8,10 @@
 <!-- PASTE YOUR ASCII ART HERE IN A CODE BLOCK -->
 
 ```
-█████  ██████  ███████  ██    ██
-██     ██   ██ ██       ██    ██
-██     ██████  █████    ██    ██
-██     ██   ██ ██       ██    ██
-█████  ██   ██ ███████  ███████
+ __                                    __      __    __ __        __              __       __    
+|  |_.-----.--.--.-----.---.-.--------|__|    |  |--|__|  |_.----|  |--.    .----|  .--.--|  |--.
+|   _|__ --|  |  |     |  _  |        |  |    |  _  |  |   _|  __|     |    |  __|  |  |  |  _  |
+|____|_____|_____|__|__|___._|__|__|__|__|    |_____|__|____|____|__|__|    |____|__|_____|_____|
 ```
 
 <br>
@@ -23,14 +22,14 @@
 
 ```
 +---------------------------------------------------------------+
-|  $ whoami                                                    |
-|  > Vokiry - exploring the Linux ecosystem                    |
+|  $ whoami                                                     |
+|  > Vokiry - exploring the Linux ecosystem                     |
 |                                                               |
-|  $ echo $MOTIVATION                                          |
-|  > "Simplicity is the ultimate sophistication."              |
+|  $ echo $MOTIVATION                                           |
+|  > "Simplicity is the ultimate sophistication."               |
 |                                                               |
-|  $ uname -srm                                                |
-|  > Linux x86_64 GNU/Linux                                   |
+|  $ uname -srm                                                 |
+|  > Linux x86_64 GNU/Linux                                     |
 +---------------------------------------------------------------+
 ```
 
@@ -109,13 +108,10 @@
 
 ## 👤 About Me
 
-| | |
 |:---|:---|
 | **Name** | Vokiry |
-| **Location** | [Your City, Country] |
-| **Age** | [Your Age] |
+| **Location** | [Somewhere on Earth] |
 | **Pronouns** | he/him |
-| **Timezone** | [Your Timezone] |
 
 ### What I Do
 
@@ -134,8 +130,6 @@
 
 ### Interests
 
-- ⌨️ Mechanical keyboards
-- 🎮 Retro gaming
 - 📖 Open source philosophy
 - 🐧 Tux the penguin
 - 🌌 CLI aesthetics
@@ -144,8 +138,7 @@
 
 | Terminal | Editor | Browser | OS |
 |:---|:---|:---|:---|
-| Alacritty / Kitty | Neovim | Firefox | Arch/Debian |
-| Tmux | Vim | LibreWolf | Void |
+| Kitty | Neovim | Firefox | Arch |
 
 ---
 
@@ -222,12 +215,12 @@ Loading...
 
 ```
 +-----------------------------------------------------------------+
-|  > gcc life.c -o happiness                                     |
+|  > gcc life.c -o happiness                                      |
 |  > ./happiness                                                  |
-|                                                                  |
-|     "The terminal is not just a tool -- it's a lifestyle."     |
-|                                                                  |
-|     Thanks for visiting! Stay curious, stay free!              |
+|                                                                 |
+|     "The terminal is not just a tool -- it's a lifestyle."      |
+|                                                                 |
+|     Thanks for visiting! Stay curious, stay free!               |
 +-----------------------------------------------------------------+
 ```
 
