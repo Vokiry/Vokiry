@@ -17,13 +17,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate Snake (Dark + Light)
-        uses: miccy/snake-evolution@v1
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Vokiry
           outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
