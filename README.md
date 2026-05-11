@@ -1,4 +1,4 @@
-\<!-- README.md - Vokiry's Profile -->
+<!-- README.md - Vokiry's Profile -->
 <!-- Made with love on Linux -->
 
 <div align="center">
@@ -51,7 +51,7 @@
 
 <div align="center">
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vokiry&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=C9D1D9&exclude_repo=github-readme-stats)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vokiry&layout=compact&theme=onedark&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=C9D1D9)
 
 </div>
 
@@ -67,7 +67,7 @@
 
 <div align="center">
 
-[![Trophy](https://github-trophies.vercel.app/?username=Vokiry&theme=dark&column=6&title_color=00CED1&text_color=C9D1D9&bg_color=0D1117&no_frame=true&size=small)](https://github.com/Vokiry)
+[![Trophy](https://github-trophies.vercel.app/?username=Vokiry&theme=onedark&column=8&size=small)](https://github.com/Vokiry)
 
 </div>
 
