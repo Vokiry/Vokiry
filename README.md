@@ -79,7 +79,10 @@
 
 <div align="center">
 
-![Snake](https://raw.githubusercontent.com/Vokiry/Vokiry/output/github-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vokiry/Vokiry/output/github-snake-dark.svg" />
+  <img alt="Snake" src="https://raw.githubusercontent.com/Vokiry/Vokiry/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
