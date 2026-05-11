@@ -3,11 +3,11 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=4EAA25&height=300&section=header&text=Vokiry&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Linux%20Enthusiast%20%7C%20CLI%20Lover%20%7C%20Minimalist&descAlignY=55&descSize=20" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=2D5016&height=300&section=header&text=Vokiry&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Linux%20Enthusiast%20%7C%20CLI%20Lover%20%7C%20Minimalist&descAlignY=55&descSize=20" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4EAA25&height=300&section=header&text=Vokiry&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Linux%20Enthusiast%20%7C%20CLI%20Lover%20%7C%20Minimalist&descAlignY=55&descSize=20" />
-</picture>
+<br>
+
+# <samp>Vokiry</samp>
+
+<sub>Linux Enthusiast · CLI Lover · Minimalist</sub>
 
 <br><br>
 
@@ -20,17 +20,17 @@
                |_|                              
 ```
 
-### Welcome to my digital playground 🐧
+<br>
 
-<sub>Type <kbd>ls</kbd> to explore more about me</sub>
+<samp>Type <kbd>ls</kbd> to explore more about me</samp>
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Vokiry/Vokiry/main/assets/shell.gif" width="25"> Shell Session
+## <kbd>whoami</kbd>
 
-```bash
+```
 $ cat about.txt
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  NAME     : Vokiry
@@ -51,16 +51,13 @@ $ uname -a
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Vokiry/Vokiry/main/assets/box.gif" width="25"> Tech Arsenal
+## <kbd>tech --stack</kbd>
 
 ### 💻 Operating Systems
-<div align="left">
 
-| Arch BTW | Debian/Ubuntu | Fedora | Gentoo | Void |
+| Arch BTW | Debian | Fedora | Gentoo | Void |
 |:--:|:--:|:--:|:--:|:--:|
 | <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" /> | <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" /> | <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" /> | <img src="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white" /> | <img src="https://img.shields.io/badge/Void-478061?style=for-the-badge&logo=void&logoColor=white" /> |
-
-</div>
 
 ### 🛠️ Tools & Technologies
 
@@ -68,11 +65,11 @@ $ uname -a
 |:--|:--|:--|
 | <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /> | <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" /> | <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" /> |
 | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> | <img src="https://img.shields.io/badge/GNU-959437?style=for-the-badge&logo=gnu&logoColor=white" /> | <img src="https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> | <img src="https://img.shields.io/badge/GNU%20Make-4D4D4D?style=for-the-badge&logo=gnu-make&logoColor=white" /> | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> | <img src="https://img.shields.io/badge/Make-4D4D4D?style=for-the-badge&logo=gnu-make&logoColor=white" /> | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> |
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Vokiry/Vokiry/main/assets/folder.gif" width="25"> Projects
+## <kbd>ls ~/projects</kbd>
 
 > *Work in progress... Coming soon!* ⏳
 
@@ -85,19 +82,19 @@ $ uname -a
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Vokiry/Vokiry/main/assets/chart.gif" width="25"> Activity
+## <kbd>git log</kbd>
 
 <div align="center">
 
-![Vokiry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vokiry&theme=midnight-purple&hide_border=true&border_color=4EAA25&title_color=4EAA25&icon_color=4EAA25&text_color=C8D3F5)
+![Vokiry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vokiry&theme=midnight-purple&hide_border=true&border_color=00CED1&title_color=00CED1&icon_color=00CED1&text_color=C8D3F5)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vokiry&layout=compact&theme=midnight-purple&hide_border=true&border_color=4EAA25&title_color=4EAA25&text_color=C8D3F5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vokiry&layout=compact&theme=midnight-purple&hide_border=true&border_color=00CED1&title_color=00CED1&text_color=C8D3F5)
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Vokiry/Vokiry/main/assets/link.gif" width="25"> Connect
+## <kbd>connect</kbd>
 
 <div align="center">
 
@@ -110,7 +107,7 @@ $ uname -a
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Vokiry/Vokiry/main/assets/heart.gif" width="25"> Support
+## <kbd>support</kbd>
 
 <div align="center">
 
@@ -121,7 +118,7 @@ $ uname -a
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Vokiry/Vokiry/main/assets/foot.gif" width="20"> Footer
+## <kbd>exit</kbd>
 
 <div align="center">
 
@@ -142,12 +139,12 @@ $ uname -a
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Vokiry&label=profile%20views&color=4EAA25&style=flat-square&labelColor=0D1117" alt="profile views" />
-<img src="https://img.shields.io/github/followers/Vokiry?style=flat-square&color=4EAA25&labelColor=0D1117" alt="followers" />
+<img src="https://komarev.com/ghpvc/?username=Vokiry&label=profile%20views&color=00CED1&style=flat-square&labelColor=0D1117" alt="profile views" />
+<img src="https://img.shields.io/github/followers/Vokiry?style=flat-square&color=00CED1&labelColor=0D1117" alt="followers" />
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/Vokiry/Vokiry/main/assets/penguin.gif" width="50">
+🐧
 
 <br><sub>Made with ☕ and 🐧 on Linux</sub>
 
