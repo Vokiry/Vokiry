@@ -75,16 +75,6 @@
 
 ---
 
-## 📈 Contributions
-
-<div align="center">
-
-![Contributions](https://github-contributions.vercel.app/api/vokiry?theme=dark&width=100%&hideTitle=true&hideBorder=true&color=00CED1&bg_color=0D1117)
-
-</div>
-
----
-
 ## 🏆 Trophies
 
 <div align="center">
