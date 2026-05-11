@@ -17,12 +17,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate Snake
+      - name: Generate Snake (Dark Mode)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Vokiry
           outputs: |
-            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
