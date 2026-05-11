@@ -1,4 +1,4 @@
-<!-- README.md - Vokiry's Profile -->
+\<!-- README.md - Vokiry's Profile -->
 <!-- Made with love on Linux -->
 
 <div align="center">
@@ -39,16 +39,6 @@
 
 ---
 
-## 📌 Pinned
-
-<div align="center">
-
-[![Bledctl](https://github-readme-stats.vercel.app/api/pin/?username=Vokiry&repo=bledctl&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=C9D1D9&description=Blursed LED controller?)](https://github.com/Vokiry/bledctl)
-
-</div>
-
----
-
 ## 📊 Stats
 
 <div align="center">
@@ -61,7 +51,7 @@
 
 <div align="center">
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vokiry&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=C9D1D9)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vokiry&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=C9D1D9&exclude_repo=github-readme-stats)
 
 </div>
 
@@ -83,13 +73,9 @@
 
 ---
 
-## 💬 Quote
+## 💭 Favorite Quote
 
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?theme=dark&accent_color=00CED1)
-
-</div>
+> *"Simplicity is the ultimate sophistication."* — Leonardo da Vinci
 
 ---
 
@@ -131,33 +117,26 @@
 | Terminal | Editor | Browser | OS |
 |:---|:---|:---|:---|
 | Alacritty | Neovim | Firefox | Arch / CachyOS |
+| zsh + zellij | Vim | Librewolf | niri |
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Operating Systems
-
 | Arch | CachyOS |
 |:---:|:---:|
-| ![Arch](https://img.shields.io/badge/Arch-1793D1?logo=archlinux&logoColor=white) | ![CachyOS](https://img.shields.io/badge/CachyOS-35495E?logo=archlinux&logoColor=white)|
+| ![Arch](https://img.shields.io/badge/Arch-1793D1?logo=archlinux&logoColor=white) | ![CachyOS](https://img.shields.io/badge/CachyOS-35495E?logo=archlinux&logoColor=white) |
 
 ### Tools
-
 | zsh | Neovim | Git |
 |:---:|:---:|:---:|
 | ![zsh](https://img.shields.io/badge/zsh-4EAA25?logo=gnubash&logoColor=white) | ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) |
 
 ### Window Managers
-
 | Hyprland | niri |
 |:---:|:---:|
 | ![Hyprland](https://img.shields.io/badge/Hyprland-00CED1?logo=wayland&logoColor=white) | ![niri](https://img.shields.io/badge/niri-00CED1?logo=wayland&logoColor=white) |
-### Languages
-
-| Bash | Python | Lua |
-|:---:|:---:|:---:|
-| ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![Lua](https://img.shields.io/badge/Lua-000080?logo=lua&logoColor=white) |
 
 ---
 
@@ -167,6 +146,7 @@
 |:---|:---|:---|
 | **bledctl** | CLI tool for controlling Blursed LEDs | Coming Soon |
 | **dotfiles** | Hyprland + niri rice configurations | In Progress |
+| **linux-scripts** | Useful automation scripts | Maintaining |
 
 ---
 
