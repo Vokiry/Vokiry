@@ -53,6 +53,7 @@
 
 <div align="center">
 
+| | |
 |:---:|:---:|
 | ![Contributions](https://github-readme-stats.vercel.app/api?username=Vokiry&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=C9D1D9&icon_color=00CED1&count_private=true&include_all_commits=true) | ![Streak](https://streak-stats.demolab.com/?user=Vokiry&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=C9D1D9&icon_color=00CED1&stroke=00CED1) |
 
@@ -94,6 +95,7 @@
 
 ## 👤 About Me
 
+| | |
 |:---|:---|
 | **Name** | Vokiry |
 | **Location** | Somewhere on Earth |
@@ -129,7 +131,6 @@
 | Terminal | Editor | Browser | OS |
 |:---|:---|:---|:---|
 | Alacritty | Neovim | Firefox | Arch / CachyOS |
-| zsh + zellij | Vim | Librewolf | niri |
 
 ---
 
@@ -137,27 +138,26 @@
 
 ### Operating Systems
 
-| Arch | CachyOS | Debian | Fedora | Void |
-|:---:|:---:|:---:|:---:|:---:|
-| ![Arch](https://img.shields.io/badge/Arch-1793D1?logo=archlinux&logoColor=white) | ![CachyOS](https://img.shields.io/badge/CachyOS-35495E?logo=archlinux&logoColor=white) | ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white) | ![Fedora](https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white) | ![Void](https://img.shields.io/badge/Void-478061?logo=void&logoColor=white) |
+| Arch | CachyOS |
+|:---:|:---:|
+| ![Arch](https://img.shields.io/badge/Arch-1793D1?logo=archlinux&logoColor=white) | ![CachyOS](https://img.shields.io/badge/CachyOS-35495E?logo=archlinux&logoColor=white)|
 
 ### Tools
 
-| zsh | Bash | Vim | Neovim | Git | Tmux |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| ![zsh](https://img.shields.io/badge/zsh-4EAA25?logo=gnubash&logoColor=white) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) | ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white) | ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) | ![Tmux](https://img.shields.io/badge/Tmux-1BB91F?logo=tmux&logoColor=white) |
+| zsh | Neovim | Git |
+|:---:|:---:|:---:|
+| ![zsh](https://img.shields.io/badge/zsh-4EAA25?logo=gnubash&logoColor=white) | ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) |
 
 ### Window Managers
 
-| Hyprland | niri | i3 | Sway |
-|:---:|:---:|:---:|:---:|
-| ![Hyprland](https://img.shields.io/badge/Hyprland-00CED1?logo=wayland&logoColor=white) | ![niri](https://img.shields.io/badge/niri-00CED1?logo=wayland&logoColor=white) | ![i3](https://img.shields.io/badge/i3-00CED1?logo=i3&logoColor=white) | ![Sway](https://img.shields.io/badge/Sway-00CED1?logo=sway&logoColor=white) |
-
+| Hyprland | niri |
+|:---:|:---:|
+| ![Hyprland](https://img.shields.io/badge/Hyprland-00CED1?logo=wayland&logoColor=white) | ![niri](https://img.shields.io/badge/niri-00CED1?logo=wayland&logoColor=white) |
 ### Languages
 
-| Bash | Python | C | Lua | Rust |
-|:---:|:---:|:---:|:---:|:---:|
-| ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) | ![Lua](https://img.shields.io/badge/Lua-000080?logo=lua&logoColor=white) | ![Rust](https://img.shields.io/badge/Rust-DEA584?logo=rust&logoColor=white) |
+| Bash | Python | Lua |
+|:---:|:---:|:---:|
+| ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![Lua](https://img.shields.io/badge/Lua-000080?logo=lua&logoColor=white) |
 
 ---
 
@@ -167,7 +167,6 @@
 |:---|:---|:---|
 | **bledctl** | CLI tool for controlling Blursed LEDs | Coming Soon |
 | **dotfiles** | Hyprland + niri rice configurations | In Progress |
-| **linux-scripts** | Useful automation scripts | Maintaining |
 
 ---
 
@@ -200,12 +199,12 @@
 
 ```
 +-----------------------------------------------------------------+
-|  > gcc life.c -o happiness                                     |
+|  > gcc life.c -o happiness                                      |
 |  > ./happiness                                                  |
-|                                                                  |
-|     "The terminal is not just a tool -- it's a lifestyle."     |
-|                                                                  |
-|     Thanks for visiting! Stay curious, stay free!              |
+|                                                                 |
+|     "The terminal is not just a tool -- it's a lifestyle."      |
+|                                                                 |
+|     Thanks for visiting! Stay curious, stay free!               |
 +-----------------------------------------------------------------+
 ```
 
