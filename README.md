@@ -79,7 +79,7 @@
 
 <div align="center">
 
-![Snake](https://raw.githubusercontent.com/Vokiry/Vokiry/output/snake.svg)
+![Snake](https://raw.githubusercontent.com/Vokiry/Vokiry/output/github-snake.svg)
 
 </div>
 
