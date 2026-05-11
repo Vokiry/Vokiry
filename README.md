@@ -43,27 +43,25 @@
 
 <div align="center">
 
-<a href="https://github.com/Vokiry/bledctl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vokiry&repo=bledctl&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=C9D1D9&icon_color=00CED1&description=Blursed+LED+controller" />
-</a>
+[![Pinned](https://gitmystat.vercel.app/api/pin?username=Vokiry&repo=bledctl&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=C9D1D9&icon_color=00CED1&description=Blursed+LED+controller)](https://github.com/Vokiry/bledctl)
 
 </div>
 
 ---
 
-## 📊 Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
 | | |
 |:---:|:---:|
-| ![Contributions](https://github-readme-stats.vercel.app/api?username=Vokiry&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=C9D1D9&icon_color=00CED1&count_private=true&include_all_commits=true) | ![Streak](https://streak-stats.demolab.com/?user=Vokiry&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=C9D1D9&icon_color=00CED1&stroke=00CED1) |
+| ![Stats](https://gitmystat.vercel.app/api?username=Vokiry&theme=dracula&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=C9D1D9&icon_color=00CED1) | ![Languages](https://gitmystat.vercel.app/api/top-langs?username=Vokiry&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=C9D1D9) |
 
 </div>
 
 <div align="center">
 
-![Languages](https://card-github-stats.omega-g.tech/top-langs?username=Vokiry&layout=compact&theme=onedark&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=C9D1D9)
+![Streak](https://gitmystat.vercel.app/api/streak?username=Vokiry&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=C9D1D9&stroke=00CED1)
 
 </div>
 
@@ -79,15 +77,9 @@
 
 <div align="center">
 
-[![Trophy](https://github-trophies.vercel.app/?username=Vokiry&theme=onedark&column=8&size=small)](https://github.com/Vokiry)
+[![Trophy](https://github-trophies.vercel.app/?username=Vokiry&theme=dracula&column=8&size=small)](https://github.com/Vokiry)
 
 </div>
-
----
-
-## 💭 Favorite Quote
-
-> *"Simplicity is the ultimate sophistication."* — Leonardo da Vinci
 
 ---
 
@@ -150,15 +142,20 @@
 |:---:|:---:|
 | ![Hyprland](https://img.shields.io/badge/Hyprland-00CED1?logo=wayland&logoColor=white) | ![niri](https://img.shields.io/badge/niri-00CED1?logo=wayland&logoColor=white) |
 
+### Languages
+| Bash | Lua | Python | C |
+|:---:|:---:|:---:|:---:|
+| ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) | ![Lua](https://img.shields.io/badge/Lua-000080?logo=lua&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) |
+
 ---
 
 ## 📂 Projects
 
 | Project | Description | Status |
 |:---|:---|:---|
-| **bledctl** | CLI tool for controlling Blursed LEDs | Coming Soon |
-| **dotfiles** | Hyprland + niri rice configurations | In Progress |
-| **linux-scripts** | Useful automation scripts | Maintaining |
+| [bledctl](https://github.com/Vokiry/bledctl) | CLI tool for controlling Blursed LEDs | Coming Soon |
+| [dotfiles](https://github.com/Vokiry/dotfiles) | Hyprland + niri rice configurations | In Progress |
+| [linux-scripts](https://github.com/Vokiry/linux-scripts) | Useful automation scripts | Maintaining |
 
 ---
 
@@ -203,7 +200,6 @@
 <br>
 
 ![Views](https://komarev.com/ghpvc/?username=Vokiry&label=profile%20views&color=00CED1&style=flat-square&labelColor=0D1117)
-![Followers](https://img.shields.io/github/followers/Vokiry?style=flat-square&color=00CED1&labelColor=0D1117)
 
 <br>
 
