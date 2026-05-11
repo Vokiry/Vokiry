@@ -43,7 +43,9 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vokiry&repo=bledctl&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=C9D1D9&description=Blursed LED controller)](https://github.com/Vokiry/bledctl)
+<a href="https://github.com/Vokiry/bledctl">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vokiry&repo=bledctl&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=C9D1D9&icon_color=00CED1&description=Blursed+LED+controller" />
+</a>
 
 </div>
 
@@ -61,9 +63,7 @@
 
 <div align="center">
 
-| Bash | Lua | Python | C |
-|:---:|:---:|:---:|:---:|
-| ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) | ![Lua](https://img.shields.io/badge/Lua-000080?logo=lua&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) |
+![Languages](https://card-github-stats.omega-g.tech/top-langs?username=Vokiry&layout=compact&theme=onedark&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=C9D1D9)
 
 </div>
 
